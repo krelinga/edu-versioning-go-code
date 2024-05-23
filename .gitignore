@@ -22,3 +22,6 @@
 
 # editor junk
 .*.swp
+
+# temporal cluster local data.
+cluster.db
